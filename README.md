@@ -10,7 +10,7 @@ Evaluate model performance and fairness across income groups.
 
 Mitigate algorithmic bias using fairness-aware techniques.
 
-⚙ Implementation Highlights
+ Implementation Highlights
 Data Cleaning & Imputation: Handled missing values using iterative imputation and optimized memory usage.
 
 Feature Engineering: Applied binning, discretization, and Weight of Evidence (WOE) encoding.
