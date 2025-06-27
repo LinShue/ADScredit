@@ -1,4 +1,4 @@
-Give Me Some Credit: Nutritional Labels for Automated Decision Systems
+##Give Me Some Credit: Nutritional Labels for Automated Decision Systems
 This project focuses on building and evaluating a machine learning system for predicting the probability that a borrower will experience financial distress within two years. Using the "Give Me Some Credit" dataset of 250,000 borrower records, we developed multiple models and analyzed their fairness to produce an interpretable and responsible credit scoring system.
 
  Project Goals
